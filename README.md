@@ -1,4 +1,4 @@
-# card-click-html5
+# CLICK CARD
 HTML5 + CSS3 - Click Card WP
 
 Desenvolvidor por: Murillo Pereira de Carvalho
